@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+- 📖 I recently joind Microverse as a Student, I'm looking forward to give my best in this learning experience! 
 - 🌱 I’m currently learning HTML/CSS and Javascript, going around the basics.
+- ⚡  Fun fact: We actually have the same age as universe, as matter isn't created nor destroyed.
+<br>
+
+[![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
