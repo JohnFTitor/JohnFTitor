@@ -1,6 +1,6 @@
 # Hi, I'm Andrés 👋
 
-<img src="myBanner.svg">
+<img width="100%" src="myBanner.gif">
 
 [![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
