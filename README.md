@@ -23,8 +23,4 @@
 
 <img src="https://www.codewars.com/users/johnftitor/badges/large" width="40%" align="right">
 
-[![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark&count_private=true" width= "55%" align="left"></a>
