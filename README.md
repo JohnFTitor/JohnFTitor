@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" align="right">
 
-[![Spotify](https://novatorem-johnftitor.vercel.app/api/spotify)](https://open.spotify.com/user/vjwgoepub5o7x32ocma5lmwnm)
+[<img src="https://novatorem-johnftitor.vercel.app/api/spotify" width="45%">](https://open.spotify.com/user/vjwgoepub5o7x32ocma5lmwnm)
 
 ```javascript
   let johnftitor = {
