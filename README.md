@@ -24,3 +24,5 @@
 <img src="https://www.codewars.com/users/johnftitor/badges/large" width="40%" align="right">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark&count_private=true" width= "55%" align="left"></a>
+
+[![Spotify](https://novatorem-johnftitor.vercel.app/api/spotify)](https://open.spotify.com/user/vjwgoepub5o7x32ocma5lmwnm)
