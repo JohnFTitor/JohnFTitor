@@ -25,11 +25,11 @@
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> Some info in what I do 
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnftitor&theme=vision-friendly-dark"   width= "40%" align="right"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnftitor&theme=vision-friendly-dark"   width= "45%" align="right"></a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark&count_private=true" width= "55%" align="left"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=JohnFTitor&show_icons=true&theme=vision-friendly-dark&count_private=true" width= "50%" align="left"></a>
 
-<img style="margin-top: 10px;" src="https://www.codewars.com/users/johnftitor/badges/large" width="40%" align="right">
+<img style="margin-top: 10px;" src="https://www.codewars.com/users/johnftitor/badges/large" width="45%" align="right">
 
 
