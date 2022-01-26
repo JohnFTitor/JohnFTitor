@@ -15,10 +15,12 @@
     pronouns: 'he/him',
     stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python'],
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing'],
-    learning: ['Data Structures/Algorithms', 'APIs'],
-    about: `I'm always looking for challenges that help 
-    me learn and grow, giving my best in making things 
-    happen. Get things done`
+    spokenLanguages: ['Spanish', 'English'],
+    learning: ['Data Structures/Algorithms', 'APIs', 
+    'Japanese'],
+    about: `Passionate learner whose interests go from 
+    programming to writing, 3d modeling, and drawing. 
+    On the way to becoming a Full-Stack Web Developer`
   }
 ```
 
