@@ -17,7 +17,7 @@
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing'],
     spokenLanguages: ['Spanish', 'English'],
     learning: ['Data Structures/Algorithms', 
-    'Japanese', 'React'],
+    'Japanese', 'Discrete Mathematics', 'React'],
     about: `Passionate learner whose interests go from 
     programming to writing, 3d modeling, and drawing. 
     On the way to becoming a Full-Stack Web Developer`
