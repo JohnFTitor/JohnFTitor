@@ -13,11 +13,12 @@
     username: 'JohnFTitor',
     name: 'Andrés Felipe Arroyave Naranjo',
     pronouns: 'he/him',
-    stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python'],
+    stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python',
+    'React'],
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing'],
     spokenLanguages: ['Spanish', 'English'],
     learning: ['Data Structures/Algorithms', 
-    'Japanese', 'Discrete Mathematics', 'React'],
+    'Japanese', 'Discrete Mathematics', 'Redux'],
     about: `Passionate learner whose interests go from 
     programming to writing, 3d modeling, and drawing. 
     On the way to becoming a Full-Stack Web Developer`
