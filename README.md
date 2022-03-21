@@ -14,7 +14,7 @@
     name: 'Andrés Felipe Arroyave Naranjo',
     pronouns: 'he/him',
     stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python',
-    'React', 'Redux'],
+    'React', 'Redux', 'Jest'],
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing',
     'Writing'],
     spokenLanguages: ['Spanish', 'English'],
