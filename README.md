@@ -14,12 +14,12 @@
     name: 'Andrés Felipe Arroyave Naranjo',
     pronouns: 'he/him',
     stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python',
-    'React', 'Redux', 'Jest', 'Ruby'],
+    'React', 'Redux', 'Jest', 'Ruby', 'Ruby on Rails'],
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing',
     'Writing'],
     spokenLanguages: ['Spanish', 'English'],
     learning: ['Data Structures/Algorithms', 
-    'Japanese', 'Discrete Mathematics', 'Ruby on Rails'],
+    'Japanese', 'Discrete Mathematics'],
     about: `Passionate learner whose interests go from 
     programming to writing, 3d modeling, and drawing. 
     On the way to becoming a Full-Stack Web Developer`
