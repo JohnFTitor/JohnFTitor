@@ -20,9 +20,9 @@
     spokenLanguages: ['Spanish', 'English'],
     learning: ['Data Structures/Algorithms', 
     'Japanese', 'Discrete Mathematics'],
-    about: `Passionate learner whose interests go from 
-    programming to writing, 3d modeling, and drawing. 
-    On the way to becoming a Full-Stack Web Developer`
+    about: `Full-Stack Web Developer who sees challenges as growth opportunities. 
+    Prepared to work efficiently and effectively with diverse international remote teams. 
+    Passionate programmer recognized for the ability to grasp new concepts quickly.`
   }
 ```
 
