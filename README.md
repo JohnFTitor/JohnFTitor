@@ -4,8 +4,6 @@
 
 ## <img src="https://media.giphy.com/media/xUPGchIQ3svsVKNg4g/giphy.gif" width="70"> About me 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" align="right">
-
 [<img src="https://novatorem-johnftitor.vercel.app/api/spotify" width="45%">](https://open.spotify.com/user/vjwgoepub5o7x32ocma5lmwnm)
 
 ```javascript
