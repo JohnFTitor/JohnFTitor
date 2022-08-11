@@ -17,7 +17,7 @@
     'Writing'],
     spokenLanguages: ['Spanish', 'English'],
     learning: ['Data Structures/Algorithms', 
-    'Japanese', 'Discrete Mathematics'],
+    'Japanese', 'Discrete Mathematics', 'TypeScript', 'Angular', 'Django', 'Unity'],
     about: `Full-Stack Web Developer who sees challenges as growth opportunities. 
     Prepared to work efficiently and effectively with diverse international remote teams. 
     Passionate programmer recognized for the ability to grasp new concepts quickly.`
