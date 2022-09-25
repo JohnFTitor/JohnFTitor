@@ -14,7 +14,7 @@
     stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python',
     'React', 'Redux', 'Jest', 'Ruby', 'Ruby on Rails'],
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing',
-    'Writing'],
+    'Writing', 'Classical Music'],
     spokenLanguages: ['Spanish', 'English'],
     learning: ['Data Structures/Algorithms', 
     'Japanese', 'Discrete Mathematics', 'TypeScript', 'Angular', 'Django', 'Unity'],
