@@ -12,7 +12,7 @@
     name: 'Andrés Felipe Arroyave Naranjo',
     pronouns: 'he/him',
     stack: ['JavaScript', 'SCSS', 'HTML/CSS', 'Python',
-    'React', 'Redux', 'Jest', 'Ruby', 'Ruby on Rails'],
+    'React', 'Redux', 'Jest', 'Ruby', 'Ruby on Rails', 'Django'],
     likes: ['Anime', 'Games', '3D Modeling', 'Drawing',
     'Writing', 'Classical Music'],
     spokenLanguages: ['Spanish', 'English'],
