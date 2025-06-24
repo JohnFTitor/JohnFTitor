@@ -2,6 +2,13 @@
 
 <img width="100%" src="myBanner.svg">
 
+## Related Github Profile
+
+Here's a list of my related GitHub profiles (Work accounts):
+
+- <a href="https://github.com/JohnFTitorRebelQuest" target="_blank">Rebel Quest Interactive</a>
+
+
 ## <img src="https://media.giphy.com/media/xUPGchIQ3svsVKNg4g/giphy.gif" width="70"> About me 
 
 [<img src="https://novatorem-johnftitor.vercel.app/api/spotify" width="45%">](https://open.spotify.com/user/vjwgoepub5o7x32ocma5lmwnm)
