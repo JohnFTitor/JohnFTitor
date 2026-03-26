@@ -1,6 +1,6 @@
 # Hi, I'm Andrés <img src="https://media.giphy.com/media/g1BFZXdninnX9ZIaom/giphy.gif" width="70">
 
-<img width="100%" src="myBanner.svg">
+<img width="100%" src="MyBanner.png">
 
 ## Related Github Profile
 
